@@ -1,0 +1,26 @@
+.truncate {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+#random-movie {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.colorRed {
+    fill: red;
+}
+
+.cursorPointer {
+    cursor: pointer;
+}
+
+.errorMessage {
+    text-align: center;
+    margin: 0 auto;
+    color: #ff000078;
+}
